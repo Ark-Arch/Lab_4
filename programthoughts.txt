@@ -1,0 +1,3 @@
+instances are used to create as many objects
+
+sum of inputted values as the condition
